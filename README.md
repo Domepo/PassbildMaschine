@@ -1,5 +1,5 @@
 # Passbildmaschine
-![](https://github.com/Domepo/PassbildMaschine/blob/master/img/giphy.gif)
+![](https://github.com/Domepo/PassbildMaschine/blob/master/img/giphy.gif)<br>
 A simple passport photo generator.<br>
 *Created in arpil 2019*<br>
 
