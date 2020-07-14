@@ -1,10 +1,10 @@
 # Passbildmaschine
 
 <img src="https://github.com/Domepo/PassbildMaschine/blob/master/img/frau.png" alt="" width="150" height="150"><br>
-*Created in arpil 2019*<br>
 Icon from [flaticon](https://www.flaticon.com/de/autoren/becris)<br>
-A simple passport photo generator.
-
+A simple passport photo generator.<br>
+*Created in arpil 2019*<br>
+![](https://github.com/Domepo/PassbildMaschine/blob/master/img/giphy.gif)
 
 
 ## Installation
@@ -23,6 +23,10 @@ pip install tkinter
 ```python
 python Main.py
 ```
+### Turn this
+<img src="https://github.com/Domepo/PassbildMaschine/blob/master/img/symbole.jpg" alt="https://pixabay.com/de/photos/portrait-kind-h%C3%A4nde-verstecken-317041/" width="350" height="450"><br>
+### Into this
+<img src="https://github.com/Domepo/PassbildMaschine/blob/master/img/8photos.png" alt="https://pixabay.com/de/photos/portrait-kind-h%C3%A4nde-verstecken-317041/" width="600" height="400"><br>
 ## GUI
 
 ![](https://github.com/Domepo/PassbildMaschine/blob/master/img/tkinter.PNG)
