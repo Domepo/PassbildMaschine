@@ -24,7 +24,7 @@ python Main.py
 ### Into this
 <img src="https://github.com/Domepo/PassbildMaschine/blob/master/img/8photos.png" alt="https://pixabay.com/de/photos/portrait-kind-h%C3%A4nde-verstecken-317041/" width="600" height="400"><br>
 ### Some extra links
-Biometrical passport picture [generator](https://www.persofoto.de/de)
+Biometrical passport picture [generator](https://www.persofoto.de/de)<br>
 Background [remover](https://www.remove.bg/)
 ## GUI
 
