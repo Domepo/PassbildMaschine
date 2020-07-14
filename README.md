@@ -1,4 +1,4 @@
-# <img src="https://github.com/Domepo/PassbildMaschine/blob/master/img/frau.png" alt="alt text" width="50" height="50">PassbildMaschine
+# <img src="https://github.com/Domepo/PassbildMaschine/blob/master/img/frau.png" alt="alt text" width="30" height="30">PassbildMaschine
 
 *Created in arpil 2019*
 
