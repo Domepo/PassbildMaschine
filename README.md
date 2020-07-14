@@ -1,7 +1,7 @@
-# <img src="https://github.com/Domepo/PassbildMaschine/blob/master/img/frau.png" alt="alt text" width="30" height="30">PassbildMaschine
-
+#PassbildMaschine
+<img src="https://github.com/Domepo/PassbildMaschine/blob/master/img/frau.png" alt="" width="150" height="150"><br>
 *Created in arpil 2019*
-
+<div>Icons erstellt von <a href="https://www.flaticon.com/de/autoren/becris" title="Becris">Becris</a> from <a href="https://www.flaticon.com/de/" title="Flaticon">www.flaticon.com</a></div>
 A simple passport photo generator.
 
 
