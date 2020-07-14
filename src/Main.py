@@ -201,10 +201,10 @@ OPTIONS = [
 root = Tk()
 
 def OpenFile():
-    anfang = askopenfilename(initialdir="C:/Users/Batman/Documents/Programming/tkinter/",filetypes =(("PNG", "*.png"),("JPEG", "*.jpg"),("Text File", "*.txt")),title = "Wähle datei aus")
+    anfang = askopenfilename(initialdir="C:/Users/Batman/Documents/Programming/tkinter/",filetypes =(("jpg", "*.jpeg"),("PNG", "*.png"),("JPEG", "*.jpg"),("Text File", "*.txt")),title = "Wähle datei aus")
     return anfang
 def FinalFile():
-    ziel = asksaveasfilename(initialdir="C:/Users/Batman/Documents/Programming/tkinter/",filetypes =(("PNG", "*.png"),("JPEG", "*.jpg"),("Text File", "*.txt")),title = "Wähle datei aus")
+    ziel = asksaveasfilename(initialdir="C:/Users/Batman/Documents/Programming/tkinter/",filetypes =(("jpg", "*.jpeg"),("PNG", "*.png"),("JPEG", "*.jpg"),("Text File", "*.txt")),title = "Wähle datei aus")
     return ziel
 
 def auswahl():
