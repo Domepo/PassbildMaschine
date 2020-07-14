@@ -3,6 +3,9 @@
 *Created in arpil 2019*
 
 A simple passport photo generator.
+![alt text](https://github.com/Domepo/PassbildMaschine/blob/master/img/frau.png)
+![Logo](https://github.com/Domepo/PassbildMaschine/blob/master/img/frau.png)
+
 
 ## Installation
 
