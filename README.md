@@ -1,8 +1,6 @@
 # PassbildMaschine
-![Logo](https://github.com/Domepo/PassbildMaschine/blob/master/img/frau.png width="30")
+![Logo](https://github.com/Domepo/PassbildMaschine/blob/master/img/frau.png | width=100)<br>
 *Created in arpil 2019*
-
-<iframe src="https://giphy.com/embed/gO0nGISRTBc6Q" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/passport-mister-bean-gO0nGISRTBc6Q">via GIPHY</a></p>
 
 A simple passport photo generator.
 
