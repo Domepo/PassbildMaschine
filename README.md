@@ -1,5 +1,5 @@
-# PassbildMaschine
-![Logo](https://github.com/Domepo/PassbildMaschine/blob/master/img/frau.png | width=100)<br>
+# <img src="https://github.com/Domepo/PassbildMaschine/blob/master/img/frau.png" alt="alt text" width="50" height="50">PassbildMaschine
+
 *Created in arpil 2019*
 
 A simple passport photo generator.
