@@ -22,7 +22,7 @@ python Main.py
 ### Turn this
 <img src="https://github.com/Domepo/PassbildMaschine/blob/master/img/symbole.jpg" alt="https://pixabay.com/de/photos/portrait-kind-h%C3%A4nde-verstecken-317041/" width="350" height="450"><br>
 ### Into this
-<img src="https://github.com/Domepo/PassbildMaschine/blob/master/img/8photos.png" alt="https://pixabay.com/de/photos/portrait-kind-h%C3%A4nde-verstecken-317041/" width="600" height="400"><br>
+<img src="https://github.com/Domepo/PassbildMaschine/blob/master/img/8photos.png" alt="https://pixabay.com/de/photos/portrait-kind-h%C3%A4nde-verstecken-317041/" width="50%" height="150%"><br>
 ### Some extra links
 Biometrical passport picture [generator](https://www.persofoto.de/de)<br>
 Background [remover](https://www.remove.bg/)
